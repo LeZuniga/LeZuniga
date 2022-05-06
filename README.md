@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ... my future
 - 🌱 I’m currently learning ... Java, Data Base, HTML...
-- 👯 I’m looking to collaborate on ... Project "Terra da <Gen>te
+- 👯 I’m looking to collaborate on ... Project "Terra da Gente
 - 🤔 I’m looking for help with ... work (send my curriculum for your job)
 - 💬 Ask me about ... anything you wanted to
 - 📫 How to reach me: ... https://www.linkedin.com/in/leticia-zuniga/
