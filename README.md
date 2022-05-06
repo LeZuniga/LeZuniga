@@ -1,9 +1,5 @@
 ### My name is Letícia Alves Zuniga and I'm a full stack java developer student!  👋
 
-<!--
-**LeZuniga/LeZuniga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... my future
 - 🌱 I’m currently learning ... Java, Data Base, HTML...
