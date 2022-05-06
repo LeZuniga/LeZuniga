@@ -8,5 +8,4 @@
 - 💬 Ask me about ... anything you wanted to
 - 📫 How to reach me: ... https://www.linkedin.com/in/leticia-zuniga/
 - 😄 Pronouns: ... Ela/She
-- ⚡ Fun fact: ... I'm a biologist
--->
+- ⚡ Fun fact: ... I'm a biologist. I love animals, memes, jokes and fun stuffs.
