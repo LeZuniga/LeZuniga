@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with ... work (send my curriculum for your job)
 - 💬 Ask me about ... anything you wanted to
 - 📫 How to reach me: ... 
-- 😄 Pronouns: ... Ela/She
+- 😄 Pronouns: ... Ela/Ella/She
 - ⚡ Fun fact: ... I'm a biologist. I love animals, memes, jokes and fun stuffs.
 
 ### Tech and Tools   
