@@ -1,4 +1,4 @@
-### My name is Letícia Alves Zuniga and I'm a full stack java developer student!  👋
+### My name is Letícia Alves Zuniga and I'm a full stack java junior developer!  👋
 
 
 - 🔭 I’m currently working on ... my future
